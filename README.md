@@ -49,8 +49,7 @@ assistant-ia-api/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/assistant-ia-api.git
-cd assistant-ia-api
+git clone https://github.com/TokySandratra/AI-Chatbot.git
 ```
 
 Create and activate a virtual environment:
